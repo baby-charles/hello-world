@@ -1,3 +1,5 @@
 # hello-world
 Free links
-Google.com
+[google.com](https://google.com)
+
+[now.gg](https://now.gg)
